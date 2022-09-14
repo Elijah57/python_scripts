@@ -1,2 +1,2 @@
 # python_nn_scripts
-machine Learning and Neural Networks python script
+machine Learning, Neural Networks and random python script
